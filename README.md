@@ -26,7 +26,4 @@ This project involved cleaning and transforming a raw dataset of ~147,000 vehicl
 ## Tools Used
 Power BI, Power Query, DAX
 
-## Files
-- `Vehicle_Insurance_Dashboard.pbix` — full Power BI file
-- `dashboard_screenshot.png` — static preview of the dashboard
-- `dataset.csv` — source dataset used# Vehicle-Insurance-Dashboard
+
